@@ -19,4 +19,4 @@
 
   - name: create expense user
     ansible.builtin.user:
-      nmae: expense
+      name: expense
